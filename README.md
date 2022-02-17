@@ -25,3 +25,4 @@ https://www.canva.com/design/DAE4c28JCKM/bVrV_VLuIyZkE01kA9aNGA/view?utm_content
 #### We were unable to come up with a definitve answer to the question we posed for the project due to limited open source data and time. Our hypothesis, based on the comparisons we were able to make between the Nasdaq Composite during the dotcom era 1995-2005 and Bitcoin from 2014-2021, was that Bitcoin was possibly leading up to a bust.
 
 
+#### Monte Carlo simulation and data analysis can be found in the "Risk Analysis" folder
